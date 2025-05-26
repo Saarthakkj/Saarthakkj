@@ -11,6 +11,5 @@
   - [wasurenbo](https://github.com/Saarthakkj/wasurenbo) : Simple tool to keep track of your X bookmarks, this chrome extension reminds you of a random bookmark daily.
 - 💻 **Tech stack**:
   - **Web**: HTML, CSS, JavaScript, React, Tailwind, Node.js, Next.js
-  - **Programming**: Python, C++
-  - **Hardware**: Verilog, C
-  - **ML**: PyTorch
+  - **Programming**: C++
+  - **ML**: PyTorch , Python
