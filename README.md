@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 - 🔭 **Currently working on**:
-  - docbook : graphRAG based visualiser of websites ; where graphs are based on subpages and relations
-  - haaca : to be announced
+  -  (diffdotdev)[https://github.com/Saarthakkj/diffdotdev] - an opensource (samedotdev)[same.dev] clone , with multi-agentic framework and self-improving-agents(yet to be implemented)
 - 🌟 **Projects I've made**:
   - [Bayesian Machine Learning Project](https://github.com/Saarthakkj/course_reccomendation): A Course recommendation system with 0.915 AUC with implicit feedback. Referred to Bayesian Personalised Ranking System for implicit Feedback paper and implemented in Python.
   - [detoxify-yt](https://github.com/Saarthakkj/detoxify_yt) : "Imposible to Be Distracted on Youtube" It not only Dynamically Filters your youtube based on your preferred category but also pops up a Warning whenever you search/watch an unrelated video.
